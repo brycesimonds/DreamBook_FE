@@ -12,7 +12,7 @@ This repo represents the front-end portion of a two-part project for Turing Scho
 
 Have you wanted a space to jot down your dreams the second you wake up? Like the time you had a dream where WWE's Goldberg brought you flowers? How cool would it be if not only could you keep a track record of your dreams, but you were given movie and book recommendations based off of your dream?! In comes our application: Dreambook! Upon signing via a Google account, a user is brought to their dashboard where they can 'Record a Dream' and reference their previous dreams and movie and book recommendations. When recording a dream, users can enter a title for the dream, a description of their dream, and one keyword describing their dream. Users then can select from a dropdown bar a status for their dream, 'Shared' or 'Hidden'. If shared, all Dreambook users will be about to see that dream when visiting the 'Dreams' link from their dashboard and be able to comment on it. If hidden, the dream will only be accessible to the user. Our goal is to have a space where users can keep track of their dreams, get movie and book recommendations based off their dreams, and see what dreams others are having out in the world! 
 
-The two repositories that make up this project can be found here: [Front-End repo](https://github.com/pdthomson/DreamBook_FE) & [Back-End repo](https://github.com/pdthomson/DreamBook_BE)
+The two repositories that make up this project can be found here: [Front-End repo](https://github.com/brycesimonds/DreamBook_FE) & [Back-End repo](https://github.com/brycesimonds/DreamBook_BE)
 
 #### [Deployed Application - Under Construction](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
